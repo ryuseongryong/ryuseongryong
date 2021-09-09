@@ -8,7 +8,7 @@
 #### 👨‍💻 꾸준한 학습으로 더 좋은 실력을 가진, 잘하는 개발자가 되고 싶습니다!
 #### 🙆‍♂️ 더 좋은 의사소통능력과 더 좋은 글쓰기 능력을 가지고 소통하는 개발자가 되고 싶습니다!
 
-## 🔍 작고 소중한 나의 깃허브 분석 결과
+## 🔍 작고 소중한 나의 깃허브
 
 [![ryuseongryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuseongryong)](https://github.com/ryuseongryong)
 
