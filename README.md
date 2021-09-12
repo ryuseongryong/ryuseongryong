@@ -12,11 +12,11 @@
 
 [![ryuseongryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuseongryong)](https://github.com/ryuseongryong)
 
-## Strong
+## 💪 Strong
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Express-f0f0f0?style=flat-square&logo=Express&logoColor=black"/>
 
-## Knowledgeable
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+## 👍 Knowledgeable
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/S3-008001?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-0097f5?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/CodePipeline-0097f5?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-## Interested
-
+## 🙏 Interested
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/{} TypeORM-orange?style=flat-square"/>
